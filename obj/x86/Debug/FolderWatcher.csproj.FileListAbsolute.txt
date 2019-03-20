@@ -1,0 +1,6 @@
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\Advanced C#\idisposable-296\after\obj\x86\Debug\FolderWatcher.csprojAssemblyReference.cache
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\Advanced C#\idisposable-296\after\obj\x86\Debug\FolderWatcher.csproj.CoreCompileInputs.cache
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\Advanced C#\idisposable-296\after\bin\Debug\FolderWatcher.exe
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\Advanced C#\idisposable-296\after\bin\Debug\FolderWatcher.pdb
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\Advanced C#\idisposable-296\after\obj\x86\Debug\FolderWatcher.exe
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\Advanced C#\idisposable-296\after\obj\x86\Debug\FolderWatcher.pdb
